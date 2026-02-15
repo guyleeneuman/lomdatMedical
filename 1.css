@@ -36,7 +36,7 @@ body {
 
 .titleDoctor{
     position: absolute;
-    top: 30%;
+    top: 26%;
     left: 50%;
     transform: translateX(-50%);
     transform: translateY(-50%);
@@ -55,7 +55,7 @@ body {
 
 .titleHopel{
     position: absolute;
-    top: 30%;
+    top: 26%;
     left: 15%;
     transform: translateX(-50%);
     transform: translateY(-50%);

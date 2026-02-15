@@ -72,7 +72,7 @@ body {
 
 .text {
     position: absolute;
-    top: 28%;
+    top: 30%;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -86,7 +86,7 @@ body {
 
 .button {
     position: absolute;
-    top: 65%;
+    top: 80%;
     left: 25%;
     cursor: pointer;
     transform: translateX(-50%);

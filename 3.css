@@ -86,7 +86,7 @@ body {
 
 .button {
     position: absolute;
-    top: 65%;
+    top: 80%;
     left: 25%;
     cursor: pointer;
     transform: translateX(-50%);
@@ -94,7 +94,7 @@ body {
 
 .libary{
     position: absolute;
-    top: 58%;
+    top: 65%;
     left: 50%;
     cursor: pointer;
     transform: translateX(-50%);

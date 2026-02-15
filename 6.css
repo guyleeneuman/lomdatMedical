@@ -86,7 +86,7 @@ body {
 
 .button {
     position: absolute;
-    top: 65%;
+    top: 80%;
     left: 25%;
     cursor: pointer;
     transform: translateX(-50%);
