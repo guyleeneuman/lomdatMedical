@@ -7,12 +7,6 @@ body {
     background-repeat: no-repeat;
 }
 
-
-body {
-    background: url("assets/backgrounds/libaryBackground.png") no-repeat center center fixed;
-    background-size: cover;
-}
-
 .logo {
     position: relative;
     top: 0%;
